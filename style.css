@@ -47,6 +47,7 @@ a{
 #qled{
     background-image: url(./images/qled.jpg);
     background-size: contain;
+    background-position: center;
     height: 100vh;
     background-repeat: no-repeat;
 }
